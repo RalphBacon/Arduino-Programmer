@@ -28,7 +28,7 @@ http://bit.ly/VideoList-RalphBacon
 
 ## Links
 
-<img src="images/Shield_Programmer.JPG" width="10%" align="left" />
+<img src="images/Shield_Programmer.JPG" width="10%" align="left">
 
 Official (as it can be) OPEN SMART AVR ISP Shield Bootloader Programmer with buzzer and LED indicator  
 http://s.click.aliexpress.com/e/snN0a5Ws  
@@ -37,12 +37,14 @@ http://s.click.aliexpress.com/e/snN0a5Ws
 **Red programming shield** that I found on eBay (UK link but available worldwide):  
 https://www.ebay.co.uk/itm/AVR-ISP-Shield-Burning-Bootloader-Programmer-for-Arduino-UNO-R3-WT-/172443238667
 
+<img src="images/Non-red_programmer.JPG" width="10%" align="left">  
 
 Ali Express **Black version** of the AVR ISP Shield (there are several):  
-http://s.click.aliexpress.com/e/dADT1zf2
+http://s.click.aliexpress.com/e/dADT1zf2  
+<br>
 
 
-<img src="images/usbasp_programmer.JPG" width="10%" align="left" />
+<img src="images/usbasp_programmer.JPG" width="10%" align="left">  
 
 AliExpress **USBASP programmer** a steal at under $2 (look around for others):   
 http://s.click.aliexpress.com/e/mI7VMddq or  
