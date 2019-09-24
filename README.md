@@ -19,3 +19,28 @@ I'd love your comments, questions and general constructive observations so pleas
 
 Here are the links to (most) of the products we looked at in the video. Some may be affiliate links that help my channel. Others are not but I don't discriminate either way.
 
+## Links
+
+Red programming shield that I found on eBay (UK link but available worldwide):  
+https://www.ebay.co.uk/itm/AVR-ISP-Shield-Burning-Bootloader-Programmer-for-Arduino-UNO-R3-WT-/172443238667
+
+Ali Express Black version of the AVR ISP Shield (there are several):  
+http://s.click.aliexpress.com/e/dADT1zf2
+
+AliExpress USBASP programmer, a steal at under $2 (look around for others):   
+http://s.click.aliexpress.com/e/mI7VMddq or  
+http://s.click.aliexpress.com/e/ouak0z72  
+
+Banggood's USBASP v2.0 programmer (NB you need a 10-pin to 6-pin adapter see next item):  
+https://www.banggood.com/USBASP-USBISP-AVR-Programmer-USB-ISP-USB-ASP-ATMEGA8-ATMEGA128-Support-Win7-64K-p-1497716.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+10-pin to 6-pin adapter, for Banggood's USBASP programmer, just over $1:  
+https://www.banggood.com/10-Pin-To-6-Pin-Adapter-Board-Connector-For-Arduino-ISP-Interface-Converter-AVR-AVRISP-USBASP-STK500-Standard-p-1413166.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+Geekcreit FT232RL FTDI USB To TTL Serial Converter Adapter Module For Arduino, on offer until 1st October:  
+https://www.banggood.com/FT232RL-FTDI-USB-To-TTL-Serial-Converter-Adapter-Module-For-Arduino-p-917226.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+
+
+
+
