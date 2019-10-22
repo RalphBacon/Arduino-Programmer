@@ -64,7 +64,7 @@ https://www.banggood.com/FT232RL-FTDI-USB-To-TTL-Serial-Converter-Adapter-Module
 
 ### List of all my videos  
 (Special thanks to Michael Kurt Vogel for compiling this)   
-http://bit.ly/VideoList-RalphBacon  
+http://bit.ly/YouTubeVideoList-RalphBacon
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey  
 
